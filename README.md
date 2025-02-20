@@ -62,17 +62,14 @@ Based on these metrics, Ridge Regression slightly outperformed Lasso, suggesting
    - Place the `vehicles.csv` file in the `data/` directory.
    - Run the data preparation script to clean and transform the data:
 
-     ```bash
     using  your google collab  open  `data_preparation.ipynb` and run it
-     ```
 
 4. **Train and Evaluate Models:**
 
    - Use the modeling script to train Ridge and Lasso regression models, perform hyperparameter tuning, and evaluate performance:
 
-     ```bash
-     python modeling.py
-     ```
+     in your collab open modelling.ipynb
+     
 
 5. **Dashboard and Daily Operations:**
 
@@ -105,6 +102,5 @@ This project is licensed under the [MIT License](LICENSE).
 
 By integrating these tools into your daily operations, you can transform raw data into actionable strategies that optimize your used car inventory and boost profitability.
 
-Happy optimizing!
 
 ---
