@@ -58,7 +58,7 @@ Based on these metrics, Ridge Regression slightly outperformed Lasso, suggesting
    - Run the data preparation script to clean and transform the data:
 
      ```bash
-     python data_preparation.py
+    using  your google collab  open  `data_preparation.ipynb` and run it
      ```
 
 4. **Train and Evaluate Models:**
