@@ -36,7 +36,12 @@ This repository contains a practical machine learning project designed to identi
 Based on these metrics, Ridge Regression slightly outperformed Lasso, suggesting that all features contribute valuable information in predicting car prices.
 
 ## How to Use This Repository
+### if you are an instructor or somebody who wants to see my complete train of thoughts and awswers to all questions ### 
 
+1. go to collab and open this file `prompt_II_test.ipynb`
+
+### if you are a regular person follow the folling steps ### 
+   
 1. **Clone the Repository:**
 
    ```bash
